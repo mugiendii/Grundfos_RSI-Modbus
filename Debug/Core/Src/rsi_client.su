@@ -1,0 +1,4 @@
+../Core/Src/rsi_client.c:25:6:RSI_Init	8	static
+../Core/Src/rsi_client.c:40:5:RSI_Poll	40	static
+../Core/Src/rsi_client.c:106:6:RSI_BuildPayload	152	static
+../Core/Src/rsi_client.c:123:6:RSI_PrintDebug	32	static

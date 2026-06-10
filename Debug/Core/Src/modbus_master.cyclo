@@ -1,0 +1,7 @@
+../Core/Src/modbus_master.c:22:17:crc16	4
+../Core/Src/modbus_master.c:41:13:uart_clear_errors	1
+../Core/Src/modbus_master.c:60:13:modbus_tx	4
+../Core/Src/modbus_master.c:78:12:modbus_rx	4
+../Core/Src/modbus_master.c:99:6:ModbusMaster_Init	1
+../Core/Src/modbus_master.c:107:5:ModbusMaster_ReadHoldingRegisters	10
+../Core/Src/modbus_master.c:146:5:ModbusMaster_WriteSingleRegister	7

@@ -1,0 +1,7 @@
+../Core/Src/vfd.c:13:13:fmt_d1	1
+../Core/Src/vfd.c:19:13:fmt_d2	1
+../Core/Src/vfd.c:25:13:uart_print	1
+../Core/Src/vfd.c:38:9:VFD_ReadMonitoring	3
+../Core/Src/vfd.c:71:9:VFD_ReadSolar	5
+../Core/Src/vfd.c:101:6:VFD_PrintMonitoring	4
+../Core/Src/vfd.c:163:6:VFD_PrintSolar	1

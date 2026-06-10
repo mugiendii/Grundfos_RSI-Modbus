@@ -1,0 +1,7 @@
+../Core/Src/modbus.c:14:17:crc16	24	static
+../Core/Src/modbus.c:28:13:bus_tx	16	static
+../Core/Src/modbus.c:41:17:bus_rx	32	static
+../Core/Src/modbus.c:56:6:Modbus_Init	8	static
+../Core/Src/modbus.c:63:14:Modbus_ReadHoldingRegs	168	static
+../Core/Src/modbus.c:107:14:Modbus_WriteSingleReg	40	static
+../Core/Src/modbus.c:140:13:Modbus_StatusStr	16	static

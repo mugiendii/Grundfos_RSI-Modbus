@@ -1,0 +1,7 @@
+../Core/Src/vfd.c:13:13:fmt_d1	16	static
+../Core/Src/vfd.c:19:13:fmt_d2	16	static
+../Core/Src/vfd.c:25:13:uart_print	16	static
+../Core/Src/vfd.c:38:9:VFD_ReadMonitoring	40	static
+../Core/Src/vfd.c:71:9:VFD_ReadSolar	24	static
+../Core/Src/vfd.c:101:6:VFD_PrintMonitoring	112	static
+../Core/Src/vfd.c:163:6:VFD_PrintSolar	96	static

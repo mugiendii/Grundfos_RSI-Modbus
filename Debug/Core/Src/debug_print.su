@@ -1,0 +1,2 @@
+../Core/Src/debug_print.c:14:5:__io_putchar	16	static
+../Core/Src/debug_print.c:20:6:ModbusLog_Error	32	static
